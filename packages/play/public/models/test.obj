@@ -1,0 +1,2558 @@
+# Rhino
+
+mtllib 板卡-组合.mtl
+o object_1
+usemtl 板卡-面板
+v 46.3349990845 30 -1
+v 46.3349990845 32.5 -1
+v 57.2249984741 30 -1
+v 57.2249984741 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+f 4/4/4 2/2/2 1/1/1 3/3/3
+o object_2
+usemtl diffuse_ControlText
+v 46.3349990845 30 -39
+v 57.2249984741 30 -39
+v 46.3349990845 32.5 -39
+v 57.2249984741 32.5 -39
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 8/8/8 6/6/6 5/5/5 7/7/7
+o object_3
+usemtl diffuse_ControlText
+v 46.3349990845 30 -39
+v 46.3349990845 30 -1
+v 46.3349990845 32.5 -39
+v 46.3349990845 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 12/12/12 10/10/10 9/9/9 11/11/11
+o object_4
+usemtl diffuse_ControlText
+v 57.2249984741 30 -39
+v 57.2249984741 30 -1
+v 57.2249984741 32.5 -39
+v 57.2249984741 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 16/16/16 14/14/14 13/13/13 15/15/15
+o object_5
+usemtl diffuse_ControlText
+v 46.3349990845 32.5 -39
+v 46.3349990845 32.5 -1
+v 57.2249984741 32.5 -39
+v 57.2249984741 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 20/20/20 18/18/18 17/17/17 19/19/19
+o object_6
+usemtl diffuse_ControlText
+v 46.3349990845 30 -39
+v 46.3349990845 30 -1
+v 57.2249984741 30 -39
+v 57.2249984741 30 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 24/24/24 22/22/22 21/21/21 23/23/23
+o object_7
+usemtl diffuse_ControlText
+v 35.4449996948 30 -39
+v 35.4449996948 30 -1
+v 46.3349990845 30 -39
+v 46.3349990845 30 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 28/28/28 26/26/26 25/25/25 27/27/27
+o object_8
+usemtl diffuse_ControlText
+v 35.4449996948 32.5 -39
+v 35.4449996948 32.5 -1
+v 46.3349990845 32.5 -39
+v 46.3349990845 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 32/32/32 30/30/30 29/29/29 31/31/31
+o object_9
+usemtl diffuse_ControlText
+v 46.3349990845 30 -39
+v 46.3349990845 30 -1
+v 46.3349990845 32.5 -39
+v 46.3349990845 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 36/36/36 34/34/34 33/33/33 35/35/35
+o object_10
+usemtl diffuse_ControlText
+v 35.4449996948 30 -39
+v 35.4449996948 30 -1
+v 35.4449996948 32.5 -39
+v 35.4449996948 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 40/40/40 38/38/38 37/37/37 39/39/39
+o object_11
+usemtl diffuse_ControlText
+v 35.4449996948 30 -39
+v 46.3349990845 30 -39
+v 35.4449996948 32.5 -39
+v 46.3349990845 32.5 -39
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 44/44/44 42/42/42 41/41/41 43/43/43
+o object_12
+usemtl 板卡-面板
+v 35.4449996948 30 -1
+v 35.4449996948 32.5 -1
+v 46.3349990845 30 -1
+v 46.3349990845 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+f 48/48/48 46/46/46 45/45/45 47/47/47
+o object_13
+usemtl 板卡-面板
+v 24.5550003052 30 -1
+v 24.5550003052 32.5 -1
+v 35.4449996948 30 -1
+v 35.4449996948 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+f 52/52/52 50/50/50 49/49/49 51/51/51
+o object_14
+usemtl diffuse_ControlText
+v 24.5550003052 30 -39
+v 35.4449996948 30 -39
+v 24.5550003052 32.5 -39
+v 35.4449996948 32.5 -39
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 56/56/56 54/54/54 53/53/53 55/55/55
+o object_15
+usemtl diffuse_ControlText
+v 24.5550003052 30 -39
+v 24.5550003052 30 -1
+v 24.5550003052 32.5 -39
+v 24.5550003052 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 60/60/60 58/58/58 57/57/57 59/59/59
+o object_16
+usemtl diffuse_ControlText
+v 35.4449996948 30 -39
+v 35.4449996948 30 -1
+v 35.4449996948 32.5 -39
+v 35.4449996948 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 64/64/64 62/62/62 61/61/61 63/63/63
+o object_17
+usemtl diffuse_ControlText
+v 24.5550003052 32.5 -39
+v 24.5550003052 32.5 -1
+v 35.4449996948 32.5 -39
+v 35.4449996948 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 68/68/68 66/66/66 65/65/65 67/67/67
+o object_18
+usemtl diffuse_ControlText
+v 24.5550003052 30 -39
+v 24.5550003052 30 -1
+v 35.4449996948 30 -39
+v 35.4449996948 30 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 72/72/72 70/70/70 69/69/69 71/71/71
+o object_19
+usemtl diffuse_ControlText
+v 2.77500009537 30 -39
+v 2.77500009537 30 -1
+v 13.6649999619 30 -39
+v 13.6649999619 30 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 76/76/76 74/74/74 73/73/73 75/75/75
+o object_20
+usemtl diffuse_ControlText
+v 2.77500009537 32.5 -39
+v 2.77500009537 32.5 -1
+v 13.6649999619 32.5 -39
+v 13.6649999619 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 80/80/80 78/78/78 77/77/77 79/79/79
+o object_21
+usemtl diffuse_ControlText
+v 13.6649999619 30 -39
+v 13.6649999619 30 -1
+v 13.6649999619 32.5 -39
+v 13.6649999619 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 84/84/84 82/82/82 81/81/81 83/83/83
+o object_22
+usemtl diffuse_ControlText
+v 2.77500009537 30 -39
+v 2.77500009537 30 -1
+v 2.77500009537 32.5 -39
+v 2.77500009537 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 88/88/88 86/86/86 85/85/85 87/87/87
+o object_23
+usemtl diffuse_ControlText
+v 2.77500009537 30 -39
+v 13.6649999619 30 -39
+v 2.77500009537 32.5 -39
+v 13.6649999619 32.5 -39
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 92/92/92 90/90/90 89/89/89 91/91/91
+o object_24
+usemtl 板卡-面板
+v 2.77500009537 30 -1
+v 2.77500009537 32.5 -1
+v 13.6649999619 30 -1
+v 13.6649999619 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+f 96/96/96 94/94/94 93/93/93 95/95/95
+o object_25
+usemtl 板卡-面板
+v 13.6649999619 30 -1
+v 13.6649999619 32.5 -1
+v 24.5550003052 30 -1
+v 24.5550003052 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+f 100/100/100 98/98/98 97/97/97 99/99/99
+o object_26
+usemtl diffuse_ControlText
+v 13.6649999619 30 -39
+v 24.5550003052 30 -39
+v 13.6649999619 32.5 -39
+v 24.5550003052 32.5 -39
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 104/104/104 102/102/102 101/101/101 103/103/103
+o object_27
+usemtl diffuse_ControlText
+v 13.6649999619 30 -39
+v 13.6649999619 30 -1
+v 13.6649999619 32.5 -39
+v 13.6649999619 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 108/108/108 106/106/106 105/105/105 107/107/107
+o object_28
+usemtl diffuse_ControlText
+v 24.5550003052 30 -39
+v 24.5550003052 30 -1
+v 24.5550003052 32.5 -39
+v 24.5550003052 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 112/112/112 110/110/110 109/109/109 111/111/111
+o object_29
+usemtl diffuse_ControlText
+v 13.6649999619 32.5 -39
+v 13.6649999619 32.5 -1
+v 24.5550003052 32.5 -39
+v 24.5550003052 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 116/116/116 114/114/114 113/113/113 115/115/115
+o object_30
+usemtl diffuse_ControlText
+v 13.6649999619 30 -39
+v 13.6649999619 30 -1
+v 24.5550003052 30 -39
+v 24.5550003052 30 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 120/120/120 118/118/118 117/117/117 119/119/119
+o object_31
+usemtl 板卡-面板
+v 46.3349990845 32.5 -1
+v 46.3349990845 35 -1
+v 57.2249984741 32.5 -1
+v 57.2249984741 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+f 124/124/124 122/122/122 121/121/121 123/123/123
+o object_32
+usemtl diffuse_ControlText
+v 46.3349990845 32.5 -39
+v 57.2249984741 32.5 -39
+v 46.3349990845 35 -39
+v 57.2249984741 35 -39
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 128/128/128 126/126/126 125/125/125 127/127/127
+o object_33
+usemtl diffuse_ControlText
+v 46.3349990845 32.5 -39
+v 46.3349990845 32.5 -1
+v 46.3349990845 35 -39
+v 46.3349990845 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 132/132/132 130/130/130 129/129/129 131/131/131
+o object_34
+usemtl diffuse_ControlText
+v 57.2249984741 32.5 -39
+v 57.2249984741 32.5 -1
+v 57.2249984741 35 -39
+v 57.2249984741 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 136/136/136 134/134/134 133/133/133 135/135/135
+o object_35
+usemtl diffuse_ControlText
+v 46.3349990845 35 -39
+v 46.3349990845 35 -1
+v 57.2249984741 35 -39
+v 57.2249984741 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 140/140/140 138/138/138 137/137/137 139/139/139
+o object_36
+usemtl diffuse_ControlText
+v 46.3349990845 32.5 -39
+v 46.3349990845 32.5 -1
+v 57.2249984741 32.5 -39
+v 57.2249984741 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 144/144/144 142/142/142 141/141/141 143/143/143
+o object_37
+usemtl diffuse_ControlText
+v 35.4449996948 32.5 -39
+v 35.4449996948 32.5 -1
+v 46.3349990845 32.5 -39
+v 46.3349990845 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 148/148/148 146/146/146 145/145/145 147/147/147
+o object_38
+usemtl diffuse_ControlText
+v 35.4449996948 35 -39
+v 35.4449996948 35 -1
+v 46.3349990845 35 -39
+v 46.3349990845 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 152/152/152 150/150/150 149/149/149 151/151/151
+o object_39
+usemtl diffuse_ControlText
+v 46.3349990845 32.5 -39
+v 46.3349990845 32.5 -1
+v 46.3349990845 35 -39
+v 46.3349990845 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 156/156/156 154/154/154 153/153/153 155/155/155
+o object_40
+usemtl diffuse_ControlText
+v 35.4449996948 32.5 -39
+v 35.4449996948 32.5 -1
+v 35.4449996948 35 -39
+v 35.4449996948 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 160/160/160 158/158/158 157/157/157 159/159/159
+o object_41
+usemtl diffuse_ControlText
+v 35.4449996948 32.5 -39
+v 46.3349990845 32.5 -39
+v 35.4449996948 35 -39
+v 46.3349990845 35 -39
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 164/164/164 162/162/162 161/161/161 163/163/163
+o object_42
+usemtl 板卡-面板
+v 35.4449996948 32.5 -1
+v 35.4449996948 35 -1
+v 46.3349990845 32.5 -1
+v 46.3349990845 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+f 168/168/168 166/166/166 165/165/165 167/167/167
+o object_43
+usemtl 板卡-面板
+v 24.5550003052 32.5 -1
+v 24.5550003052 35 -1
+v 35.4449996948 32.5 -1
+v 35.4449996948 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+f 172/172/172 170/170/170 169/169/169 171/171/171
+o object_44
+usemtl diffuse_ControlText
+v 24.5550003052 32.5 -39
+v 35.4449996948 32.5 -39
+v 24.5550003052 35 -39
+v 35.4449996948 35 -39
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 176/176/176 174/174/174 173/173/173 175/175/175
+o object_45
+usemtl diffuse_ControlText
+v 24.5550003052 32.5 -39
+v 24.5550003052 32.5 -1
+v 24.5550003052 35 -39
+v 24.5550003052 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 180/180/180 178/178/178 177/177/177 179/179/179
+o object_46
+usemtl diffuse_ControlText
+v 35.4449996948 32.5 -39
+v 35.4449996948 32.5 -1
+v 35.4449996948 35 -39
+v 35.4449996948 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 184/184/184 182/182/182 181/181/181 183/183/183
+o object_47
+usemtl diffuse_ControlText
+v 24.5550003052 35 -39
+v 24.5550003052 35 -1
+v 35.4449996948 35 -39
+v 35.4449996948 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 188/188/188 186/186/186 185/185/185 187/187/187
+o object_48
+usemtl diffuse_ControlText
+v 24.5550003052 32.5 -39
+v 24.5550003052 32.5 -1
+v 35.4449996948 32.5 -39
+v 35.4449996948 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 192/192/192 190/190/190 189/189/189 191/191/191
+o object_49
+usemtl diffuse_ControlText
+v 13.6649999619 32.5 -39
+v 13.6649999619 32.5 -1
+v 24.5550003052 32.5 -39
+v 24.5550003052 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 196/196/196 194/194/194 193/193/193 195/195/195
+o object_50
+usemtl diffuse_ControlText
+v 13.6649999619 35 -39
+v 13.6649999619 35 -1
+v 24.5550003052 35 -39
+v 24.5550003052 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 200/200/200 198/198/198 197/197/197 199/199/199
+o object_51
+usemtl diffuse_ControlText
+v 24.5550003052 32.5 -39
+v 24.5550003052 32.5 -1
+v 24.5550003052 35 -39
+v 24.5550003052 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 204/204/204 202/202/202 201/201/201 203/203/203
+o object_52
+usemtl diffuse_ControlText
+v 13.6649999619 32.5 -39
+v 13.6649999619 32.5 -1
+v 13.6649999619 35 -39
+v 13.6649999619 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 208/208/208 206/206/206 205/205/205 207/207/207
+o object_53
+usemtl diffuse_ControlText
+v 13.6649999619 32.5 -39
+v 24.5550003052 32.5 -39
+v 13.6649999619 35 -39
+v 24.5550003052 35 -39
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 212/212/212 210/210/210 209/209/209 211/211/211
+o object_54
+usemtl 板卡-面板
+v 13.6649999619 32.5 -1
+v 13.6649999619 35 -1
+v 24.5550003052 32.5 -1
+v 24.5550003052 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+f 216/216/216 214/214/214 213/213/213 215/215/215
+o object_55
+usemtl 板卡-面板
+v 2.77500009537 32.5 -1
+v 2.77500009537 35 -1
+v 13.6649999619 32.5 -1
+v 13.6649999619 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+f 220/220/220 218/218/218 217/217/217 219/219/219
+o object_56
+usemtl diffuse_ControlText
+v 2.77500009537 32.5 -39
+v 13.6649999619 32.5 -39
+v 2.77500009537 35 -39
+v 13.6649999619 35 -39
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 224/224/224 222/222/222 221/221/221 223/223/223
+o object_57
+usemtl diffuse_ControlText
+v 2.77500009537 32.5 -39
+v 2.77500009537 32.5 -1
+v 2.77500009537 35 -39
+v 2.77500009537 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 228/228/228 226/226/226 225/225/225 227/227/227
+o object_58
+usemtl diffuse_ControlText
+v 13.6649999619 32.5 -39
+v 13.6649999619 32.5 -1
+v 13.6649999619 35 -39
+v 13.6649999619 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 232/232/232 230/230/230 229/229/229 231/231/231
+o object_59
+usemtl diffuse_ControlText
+v 2.77500009537 35 -39
+v 2.77500009537 35 -1
+v 13.6649999619 35 -39
+v 13.6649999619 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 236/236/236 234/234/234 233/233/233 235/235/235
+o object_60
+usemtl diffuse_ControlText
+v 2.77500009537 32.5 -39
+v 2.77500009537 32.5 -1
+v 13.6649999619 32.5 -39
+v 13.6649999619 32.5 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 240/240/240 238/238/238 237/237/237 239/239/239
+o object_61
+usemtl diffuse_ControlText
+v 2.27999997139 35 -39
+v 57.7200012207 35 -39
+v 2.27999997139 35 -2.90000009537
+v 57.7200012207 35 -2.90000009537
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+f 244/244/244 242/242/242 241/241/241 243/243/243
+o object_62
+usemtl diffuse_ControlText
+v 2.27999997139 35 -39
+v 2.27999997139 35 -2.90000009537
+v 2.27999997139 30 -39
+v 2.27999997139 30 -2.90000009537
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn -1 0 0
+vn -1 0 0
+vn -1 0 0
+vn -1 0 0
+f 248/248/248 246/246/246 245/245/245 247/247/247
+o object_63
+usemtl diffuse_ControlText
+v 57.7200012207 35 -39
+v 57.7200012207 35 -2.90000009537
+v 57.7200012207 30 -39
+v 57.7200012207 30 -2.90000009537
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn -1 0 0
+vn -1 0 0
+vn -1 0 0
+vn -1 0 0
+f 252/252/252 250/250/250 249/249/249 251/251/251
+o object_64
+usemtl diffuse_ControlText
+v 57.7200012207 30 -39
+v 2.27999997139 30 -39
+v 57.7200012207 30 -2.90000009537
+v 2.27999997139 30 -2.90000009537
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 256/256/256 254/254/254 253/253/253 255/255/255
+o object_65
+usemtl diffuse_ControlText
+v 57.7200012207 35 -39
+v 2.27999997139 35 -39
+v 57.7200012207 30 -39
+v 2.27999997139 30 -39
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 260/260/260 258/258/258 257/257/257 259/259/259
+o object_66
+usemtl diffuse_ControlText
+v 2.27999997139 35 -2.90000009537
+v 2.27999997139 30 -2.90000009537
+v 0.300000011921 35 -2.90000009537
+v 0.300000011921 30 -2.90000009537
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+f 264/264/264 262/262/262 261/261/261 263/263/263
+o object_67
+usemtl diffuse_ControlText
+v 57.7200012207 35 -2.90000009537
+v 57.7200012207 30 -2.90000009537
+v 59.7000007629 35 -2.90000009537
+v 59.7000007629 30 -2.90000009537
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 268/268/268 266/266/266 265/265/265 267/267/267
+o object_68
+usemtl diffuse_ControlText
+v 59.7000007629 35 -2.90000009537
+v 59.7000007629 30 -2.90000009537
+v 59.7000007629 35 -1
+v 59.7000007629 30 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 272/272/272 270/270/270 269/269/269 271/271/271
+o object_69
+usemtl diffuse_ControlText
+v 0.300000011921 35 -2.90000009537
+v 0.300000011921 30 -2.90000009537
+v 0.300000011921 35 -1
+v 0.300000011921 30 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 276/276/276 274/274/274 273/273/273 275/275/275
+o object_70
+usemtl diffuse_ControlText
+v 59.7000007629 35 -1
+v 59.7000007629 35 -2.90000009537
+v 0.300000011921 35 -1
+v 0.300000011921 35 -2.90000009537
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 280/280/280 278/278/278 277/277/277 279/279/279
+o object_71
+usemtl diffuse_ControlText
+v 59.7000007629 30 -1
+v 59.7000007629 30 -2.90000009537
+v 0.300000011921 30 -1
+v 0.300000011921 30 -2.90000009537
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+vn 0 -1 0
+f 284/284/284 282/282/282 281/281/281 283/283/283
+o object_72
+usemtl diffuse_ControlText
+v 59.7000007629 30 -1
+v 57.2249984741 30 -1
+v 59.7000007629 35 -1
+v 57.2249984741 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+f 288/288/288 286/286/286 285/285/285 287/287/287
+o object_73
+usemtl diffuse_ControlText
+v 0.300000011921 30 -1
+v 0.300000011921 35 -1
+v 2.77500009537 30 -1
+v 2.77500009537 35 -1
+vt 0 0
+vt 0 1
+vt 1 0
+vt 1 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+f 292/292/292 290/290/290 289/289/289 291/291/291
+o object_74
+usemtl diffuse_ControlText
+v 46.335 30 -39
+v 46.335 32.5 -39
+l 293 294
+o object_75
+usemtl diffuse_ControlText
+v 57.225 30 -39
+v 57.225 32.5 -39
+l 295 296
+o object_76
+usemtl diffuse_ControlText
+v 57.225 30 -1
+v 57.225 32.5 -1
+l 297 298
+o object_77
+usemtl diffuse_ControlText
+v 46.335 30 -1
+v 46.335 32.5 -1
+l 299 300
+o object_78
+usemtl diffuse_ControlText
+v 57.225 30 -1
+v 57.225 30 -39
+cstype bspline
+deg 1
+curv 11 51 301 302
+parm u 11 11 51 51
+end
+o object_79
+usemtl diffuse_ControlText
+v 57.225 30 -39
+v 46.335 30 -39
+cstype bspline
+deg 1
+curv 51 62 303 304
+parm u 51 51 62 62
+end
+o object_80
+usemtl diffuse_ControlText
+v 46.335 30 -39
+v 46.335 30 -1
+cstype bspline
+deg 1
+curv 62 102 305 306
+parm u 62 62 102 102
+end
+o object_81
+usemtl diffuse_ControlText
+v 57.225 32.5 -1
+v 57.225 32.5 -39
+cstype bspline
+deg 1
+curv 11 51 307 308
+parm u 11 11 51 51
+end
+o object_82
+usemtl diffuse_ControlText
+v 57.225 32.5 -39
+v 46.335 32.5 -39
+cstype bspline
+deg 1
+curv 51 62 309 310
+parm u 51 51 62 62
+end
+o object_83
+usemtl diffuse_ControlText
+v 46.335 32.5 -39
+v 46.335 32.5 -1
+cstype bspline
+deg 1
+curv 62 102 311 312
+parm u 62 62 102 102
+end
+o object_84
+usemtl diffuse_ControlText
+v 46.335 30 -1
+v 48.315 30 -1
+l 313 314
+o object_85
+usemtl diffuse_ControlText
+v 46.335 32.5 -1
+v 48.315 32.5 -1
+l 315 316
+o object_86
+usemtl diffuse_ControlText
+v 48.315 32.5 -1
+v 51.285 32.5 -1
+l 317 318
+o object_87
+usemtl diffuse_ControlText
+v 48.315 30 -1
+v 51.285 30 -1
+l 319 320
+o object_88
+usemtl diffuse_ControlText
+v 51.285 30 -1
+v 54.255 30 -1
+l 321 322
+o object_89
+usemtl diffuse_ControlText
+v 51.285 32.5 -1
+v 54.255 32.5 -1
+l 323 324
+o object_90
+usemtl diffuse_ControlText
+v 54.255 32.5 -1
+v 57.225 32.5 -1
+l 325 326
+o object_91
+usemtl diffuse_ControlText
+v 54.255 30 -1
+v 57.225 30 -1
+l 327 328
+o object_92
+usemtl diffuse_ControlText
+v 43.365 30 -1
+v 46.335 30 -1
+l 329 330
+o object_93
+usemtl diffuse_ControlText
+v 43.365 32.5 -1
+v 46.335 32.5 -1
+l 331 332
+o object_94
+usemtl diffuse_ControlText
+v 40.395 32.5 -1
+v 43.365 32.5 -1
+l 333 334
+o object_95
+usemtl diffuse_ControlText
+v 40.395 30 -1
+v 43.365 30 -1
+l 335 336
+o object_96
+usemtl diffuse_ControlText
+v 37.425 30 -1
+v 40.395 30 -1
+l 337 338
+o object_97
+usemtl diffuse_ControlText
+v 37.425 32.5 -1
+v 40.395 32.5 -1
+l 339 340
+o object_98
+usemtl diffuse_ControlText
+v 35.445 32.5 -1
+v 37.425 32.5 -1
+l 341 342
+o object_99
+usemtl diffuse_ControlText
+v 35.445 30 -1
+v 37.425 30 -1
+l 343 344
+o object_100
+usemtl diffuse_ControlText
+v 35.445 32.5 -39
+v 35.445 32.5 -1
+cstype bspline
+deg 1
+curv 62 102 345 346
+parm u 62 62 102 102
+end
+o object_101
+usemtl diffuse_ControlText
+v 46.335 32.5 -39
+v 35.445 32.5 -39
+cstype bspline
+deg 1
+curv 51 62 347 348
+parm u 51 51 62 62
+end
+o object_102
+usemtl diffuse_ControlText
+v 46.335 32.5 -1
+v 46.335 32.5 -39
+cstype bspline
+deg 1
+curv 11 51 349 350
+parm u 11 11 51 51
+end
+o object_103
+usemtl diffuse_ControlText
+v 35.445 30 -39
+v 35.445 30 -1
+cstype bspline
+deg 1
+curv 62 102 351 352
+parm u 62 62 102 102
+end
+o object_104
+usemtl diffuse_ControlText
+v 46.335 30 -39
+v 35.445 30 -39
+cstype bspline
+deg 1
+curv 51 62 353 354
+parm u 51 51 62 62
+end
+o object_105
+usemtl diffuse_ControlText
+v 46.335 30 -1
+v 46.335 30 -39
+cstype bspline
+deg 1
+curv 11 51 355 356
+parm u 11 11 51 51
+end
+o object_106
+usemtl diffuse_ControlText
+v 35.445 30 -1
+v 35.445 32.5 -1
+l 357 358
+o object_107
+usemtl diffuse_ControlText
+v 46.335 30 -1
+v 46.335 32.5 -1
+l 359 360
+o object_108
+usemtl diffuse_ControlText
+v 46.335 30 -39
+v 46.335 32.5 -39
+l 361 362
+o object_109
+usemtl diffuse_ControlText
+v 35.445 30 -39
+v 35.445 32.5 -39
+l 363 364
+o object_110
+usemtl diffuse_ControlText
+v 24.555 30 -39
+v 24.555 32.5 -39
+l 365 366
+o object_111
+usemtl diffuse_ControlText
+v 35.445 30 -39
+v 35.445 32.5 -39
+l 367 368
+o object_112
+usemtl diffuse_ControlText
+v 35.445 30 -1
+v 35.445 32.5 -1
+l 369 370
+o object_113
+usemtl diffuse_ControlText
+v 24.555 30 -1
+v 24.555 32.5 -1
+l 371 372
+o object_114
+usemtl diffuse_ControlText
+v 35.445 30 -1
+v 35.445 30 -39
+cstype bspline
+deg 1
+curv 11 51 373 374
+parm u 11 11 51 51
+end
+o object_115
+usemtl diffuse_ControlText
+v 35.445 30 -39
+v 24.555 30 -39
+cstype bspline
+deg 1
+curv 51 62 375 376
+parm u 51 51 62 62
+end
+o object_116
+usemtl diffuse_ControlText
+v 24.555 30 -39
+v 24.555 30 -1
+cstype bspline
+deg 1
+curv 62 102 377 378
+parm u 62 62 102 102
+end
+o object_117
+usemtl diffuse_ControlText
+v 35.445 32.5 -1
+v 35.445 32.5 -39
+cstype bspline
+deg 1
+curv 11 51 379 380
+parm u 11 11 51 51
+end
+o object_118
+usemtl diffuse_ControlText
+v 35.445 32.5 -39
+v 24.555 32.5 -39
+cstype bspline
+deg 1
+curv 51 62 381 382
+parm u 51 51 62 62
+end
+o object_119
+usemtl diffuse_ControlText
+v 24.555 32.5 -39
+v 24.555 32.5 -1
+cstype bspline
+deg 1
+curv 62 102 383 384
+parm u 62 62 102 102
+end
+o object_120
+usemtl diffuse_ControlText
+v 24.555 30 -1
+v 26.535 30 -1
+l 385 386
+o object_121
+usemtl diffuse_ControlText
+v 24.555 32.5 -1
+v 26.535 32.5 -1
+l 387 388
+o object_122
+usemtl diffuse_ControlText
+v 26.535 32.5 -1
+v 29.505 32.5 -1
+l 389 390
+o object_123
+usemtl diffuse_ControlText
+v 26.535 30 -1
+v 29.505 30 -1
+l 391 392
+o object_124
+usemtl diffuse_ControlText
+v 29.505 30 -1
+v 32.475 30 -1
+l 393 394
+o object_125
+usemtl diffuse_ControlText
+v 29.505 32.5 -1
+v 32.475 32.5 -1
+l 395 396
+o object_126
+usemtl diffuse_ControlText
+v 32.475 32.5 -1
+v 35.445 32.5 -1
+l 397 398
+o object_127
+usemtl diffuse_ControlText
+v 32.475 30 -1
+v 35.445 30 -1
+l 399 400
+o object_128
+usemtl diffuse_ControlText
+v 10.695 30 -1
+v 13.665 30 -1
+l 401 402
+o object_129
+usemtl diffuse_ControlText
+v 10.695 32.5 -1
+v 13.665 32.5 -1
+l 403 404
+o object_130
+usemtl diffuse_ControlText
+v 7.725 32.5 -1
+v 10.695 32.5 -1
+l 405 406
+o object_131
+usemtl diffuse_ControlText
+v 7.725 30 -1
+v 10.695 30 -1
+l 407 408
+o object_132
+usemtl diffuse_ControlText
+v 4.755 30 -1
+v 7.725 30 -1
+l 409 410
+o object_133
+usemtl diffuse_ControlText
+v 4.755 32.5 -1
+v 7.725 32.5 -1
+l 411 412
+o object_134
+usemtl diffuse_ControlText
+v 2.775 32.5 -1
+v 4.755 32.5 -1
+l 413 414
+o object_135
+usemtl diffuse_ControlText
+v 2.775 30 -1
+v 4.755 30 -1
+l 415 416
+o object_136
+usemtl diffuse_ControlText
+v 2.775 32.5 -39
+v 2.775 32.5 -1
+cstype bspline
+deg 1
+curv 62 102 417 418
+parm u 62 62 102 102
+end
+o object_137
+usemtl diffuse_ControlText
+v 13.665 32.5 -39
+v 2.775 32.5 -39
+cstype bspline
+deg 1
+curv 51 62 419 420
+parm u 51 51 62 62
+end
+o object_138
+usemtl diffuse_ControlText
+v 13.665 32.5 -1
+v 13.665 32.5 -39
+cstype bspline
+deg 1
+curv 11 51 421 422
+parm u 11 11 51 51
+end
+o object_139
+usemtl diffuse_ControlText
+v 2.775 30 -39
+v 2.775 30 -1
+cstype bspline
+deg 1
+curv 62 102 423 424
+parm u 62 62 102 102
+end
+o object_140
+usemtl diffuse_ControlText
+v 13.665 30 -39
+v 2.775 30 -39
+cstype bspline
+deg 1
+curv 51 62 425 426
+parm u 51 51 62 62
+end
+o object_141
+usemtl diffuse_ControlText
+v 13.665 30 -1
+v 13.665 30 -39
+cstype bspline
+deg 1
+curv 11 51 427 428
+parm u 11 11 51 51
+end
+o object_142
+usemtl diffuse_ControlText
+v 2.775 30 -1
+v 2.775 32.5 -1
+l 429 430
+o object_143
+usemtl diffuse_ControlText
+v 13.665 30 -1
+v 13.665 32.5 -1
+l 431 432
+o object_144
+usemtl diffuse_ControlText
+v 13.665 30 -39
+v 13.665 32.5 -39
+l 433 434
+o object_145
+usemtl diffuse_ControlText
+v 2.775 30 -39
+v 2.775 32.5 -39
+l 435 436
+o object_146
+usemtl diffuse_ControlText
+v 13.665 30 -39
+v 13.665 32.5 -39
+l 437 438
+o object_147
+usemtl diffuse_ControlText
+v 24.555 30 -39
+v 24.555 32.5 -39
+l 439 440
+o object_148
+usemtl diffuse_ControlText
+v 24.555 30 -1
+v 24.555 32.5 -1
+l 441 442
+o object_149
+usemtl diffuse_ControlText
+v 13.665 30 -1
+v 13.665 32.5 -1
+l 443 444
+o object_150
+usemtl diffuse_ControlText
+v 24.555 30 -1
+v 24.555 30 -39
+cstype bspline
+deg 1
+curv 11 51 445 446
+parm u 11 11 51 51
+end
+o object_151
+usemtl diffuse_ControlText
+v 24.555 30 -39
+v 13.665 30 -39
+cstype bspline
+deg 1
+curv 51 62 447 448
+parm u 51 51 62 62
+end
+o object_152
+usemtl diffuse_ControlText
+v 13.665 30 -39
+v 13.665 30 -1
+cstype bspline
+deg 1
+curv 62 102 449 450
+parm u 62 62 102 102
+end
+o object_153
+usemtl diffuse_ControlText
+v 24.555 32.5 -1
+v 24.555 32.5 -39
+cstype bspline
+deg 1
+curv 11 51 451 452
+parm u 11 11 51 51
+end
+o object_154
+usemtl diffuse_ControlText
+v 24.555 32.5 -39
+v 13.665 32.5 -39
+cstype bspline
+deg 1
+curv 51 62 453 454
+parm u 51 51 62 62
+end
+o object_155
+usemtl diffuse_ControlText
+v 13.665 32.5 -39
+v 13.665 32.5 -1
+cstype bspline
+deg 1
+curv 62 102 455 456
+parm u 62 62 102 102
+end
+o object_156
+usemtl diffuse_ControlText
+v 13.665 30 -1
+v 15.645 30 -1
+l 457 458
+o object_157
+usemtl diffuse_ControlText
+v 13.665 32.5 -1
+v 15.645 32.5 -1
+l 459 460
+o object_158
+usemtl diffuse_ControlText
+v 15.645 32.5 -1
+v 18.615 32.5 -1
+l 461 462
+o object_159
+usemtl diffuse_ControlText
+v 15.645 30 -1
+v 18.615 30 -1
+l 463 464
+o object_160
+usemtl diffuse_ControlText
+v 18.615 30 -1
+v 21.585 30 -1
+l 465 466
+o object_161
+usemtl diffuse_ControlText
+v 18.615 32.5 -1
+v 21.585 32.5 -1
+l 467 468
+o object_162
+usemtl diffuse_ControlText
+v 21.585 32.5 -1
+v 24.555 32.5 -1
+l 469 470
+o object_163
+usemtl diffuse_ControlText
+v 21.585 30 -1
+v 24.555 30 -1
+l 471 472
+o object_164
+usemtl diffuse_ControlText
+v 46.335 32.5 -39
+v 46.335 35 -39
+l 473 474
+o object_165
+usemtl diffuse_ControlText
+v 57.225 32.5 -39
+v 57.225 35 -39
+l 475 476
+o object_166
+usemtl diffuse_ControlText
+v 57.225 32.5 -1
+v 57.225 35 -1
+l 477 478
+o object_167
+usemtl diffuse_ControlText
+v 46.335 32.5 -1
+v 46.335 35 -1
+l 479 480
+o object_168
+usemtl diffuse_ControlText
+v 57.225 32.5 -1
+v 57.225 32.5 -39
+cstype bspline
+deg 1
+curv 11 51 481 482
+parm u 11 11 51 51
+end
+o object_169
+usemtl diffuse_ControlText
+v 57.225 32.5 -39
+v 46.335 32.5 -39
+cstype bspline
+deg 1
+curv 51 62 483 484
+parm u 51 51 62 62
+end
+o object_170
+usemtl diffuse_ControlText
+v 46.335 32.5 -39
+v 46.335 32.5 -1
+cstype bspline
+deg 1
+curv 62 102 485 486
+parm u 62 62 102 102
+end
+o object_171
+usemtl diffuse_ControlText
+v 57.225 35 -1
+v 57.225 35 -39
+cstype bspline
+deg 1
+curv 11 51 487 488
+parm u 11 11 51 51
+end
+o object_172
+usemtl diffuse_ControlText
+v 57.225 35 -39
+v 46.335 35 -39
+cstype bspline
+deg 1
+curv 51 62 489 490
+parm u 51 51 62 62
+end
+o object_173
+usemtl diffuse_ControlText
+v 46.335 35 -39
+v 46.335 35 -1
+cstype bspline
+deg 1
+curv 62 102 491 492
+parm u 62 62 102 102
+end
+o object_174
+usemtl diffuse_ControlText
+v 46.335 32.5 -1
+v 48.315 32.5 -1
+l 493 494
+o object_175
+usemtl diffuse_ControlText
+v 46.335 35 -1
+v 48.315 35 -1
+l 495 496
+o object_176
+usemtl diffuse_ControlText
+v 48.315 35 -1
+v 51.285 35 -1
+l 497 498
+o object_177
+usemtl diffuse_ControlText
+v 48.315 32.5 -1
+v 51.285 32.5 -1
+l 499 500
+o object_178
+usemtl diffuse_ControlText
+v 51.285 32.5 -1
+v 54.255 32.5 -1
+l 501 502
+o object_179
+usemtl diffuse_ControlText
+v 51.285 35 -1
+v 54.255 35 -1
+l 503 504
+o object_180
+usemtl diffuse_ControlText
+v 54.255 35 -1
+v 57.225 35 -1
+l 505 506
+o object_181
+usemtl diffuse_ControlText
+v 54.255 32.5 -1
+v 57.225 32.5 -1
+l 507 508
+o object_182
+usemtl diffuse_ControlText
+v 43.365 32.5 -1
+v 46.335 32.5 -1
+l 509 510
+o object_183
+usemtl diffuse_ControlText
+v 43.365 35 -1
+v 46.335 35 -1
+l 511 512
+o object_184
+usemtl diffuse_ControlText
+v 40.395 35 -1
+v 43.365 35 -1
+l 513 514
+o object_185
+usemtl diffuse_ControlText
+v 40.395 32.5 -1
+v 43.365 32.5 -1
+l 515 516
+o object_186
+usemtl diffuse_ControlText
+v 37.425 32.5 -1
+v 40.395 32.5 -1
+l 517 518
+o object_187
+usemtl diffuse_ControlText
+v 37.425 35 -1
+v 40.395 35 -1
+l 519 520
+o object_188
+usemtl diffuse_ControlText
+v 35.445 35 -1
+v 37.425 35 -1
+l 521 522
+o object_189
+usemtl diffuse_ControlText
+v 35.445 32.5 -1
+v 37.425 32.5 -1
+l 523 524
+o object_190
+usemtl diffuse_ControlText
+v 35.445 35 -39
+v 35.445 35 -1
+cstype bspline
+deg 1
+curv 62 102 525 526
+parm u 62 62 102 102
+end
+o object_191
+usemtl diffuse_ControlText
+v 46.335 35 -39
+v 35.445 35 -39
+cstype bspline
+deg 1
+curv 51 62 527 528
+parm u 51 51 62 62
+end
+o object_192
+usemtl diffuse_ControlText
+v 46.335 35 -1
+v 46.335 35 -39
+cstype bspline
+deg 1
+curv 11 51 529 530
+parm u 11 11 51 51
+end
+o object_193
+usemtl diffuse_ControlText
+v 35.445 32.5 -39
+v 35.445 32.5 -1
+cstype bspline
+deg 1
+curv 62 102 531 532
+parm u 62 62 102 102
+end
+o object_194
+usemtl diffuse_ControlText
+v 46.335 32.5 -39
+v 35.445 32.5 -39
+cstype bspline
+deg 1
+curv 51 62 533 534
+parm u 51 51 62 62
+end
+o object_195
+usemtl diffuse_ControlText
+v 46.335 32.5 -1
+v 46.335 32.5 -39
+cstype bspline
+deg 1
+curv 11 51 535 536
+parm u 11 11 51 51
+end
+o object_196
+usemtl diffuse_ControlText
+v 35.445 32.5 -1
+v 35.445 35 -1
+l 537 538
+o object_197
+usemtl diffuse_ControlText
+v 46.335 32.5 -1
+v 46.335 35 -1
+l 539 540
+o object_198
+usemtl diffuse_ControlText
+v 46.335 32.5 -39
+v 46.335 35 -39
+l 541 542
+o object_199
+usemtl diffuse_ControlText
+v 35.445 32.5 -39
+v 35.445 35 -39
+l 543 544
+o object_200
+usemtl diffuse_ControlText
+v 24.555 32.5 -39
+v 24.555 35 -39
+l 545 546
+o object_201
+usemtl diffuse_ControlText
+v 35.445 32.5 -39
+v 35.445 35 -39
+l 547 548
+o object_202
+usemtl diffuse_ControlText
+v 35.445 32.5 -1
+v 35.445 35 -1
+l 549 550
+o object_203
+usemtl diffuse_ControlText
+v 24.555 32.5 -1
+v 24.555 35 -1
+l 551 552
+o object_204
+usemtl diffuse_ControlText
+v 35.445 32.5 -1
+v 35.445 32.5 -39
+cstype bspline
+deg 1
+curv 11 51 553 554
+parm u 11 11 51 51
+end
+o object_205
+usemtl diffuse_ControlText
+v 35.445 32.5 -39
+v 24.555 32.5 -39
+cstype bspline
+deg 1
+curv 51 62 555 556
+parm u 51 51 62 62
+end
+o object_206
+usemtl diffuse_ControlText
+v 24.555 32.5 -39
+v 24.555 32.5 -1
+cstype bspline
+deg 1
+curv 62 102 557 558
+parm u 62 62 102 102
+end
+o object_207
+usemtl diffuse_ControlText
+v 35.445 35 -1
+v 35.445 35 -39
+cstype bspline
+deg 1
+curv 11 51 559 560
+parm u 11 11 51 51
+end
+o object_208
+usemtl diffuse_ControlText
+v 35.445 35 -39
+v 24.555 35 -39
+cstype bspline
+deg 1
+curv 51 62 561 562
+parm u 51 51 62 62
+end
+o object_209
+usemtl diffuse_ControlText
+v 24.555 35 -39
+v 24.555 35 -1
+cstype bspline
+deg 1
+curv 62 102 563 564
+parm u 62 62 102 102
+end
+o object_210
+usemtl diffuse_ControlText
+v 24.555 32.5 -1
+v 26.535 32.5 -1
+l 565 566
+o object_211
+usemtl diffuse_ControlText
+v 24.555 35 -1
+v 26.535 35 -1
+l 567 568
+o object_212
+usemtl diffuse_ControlText
+v 26.535 35 -1
+v 29.505 35 -1
+l 569 570
+o object_213
+usemtl diffuse_ControlText
+v 26.535 32.5 -1
+v 29.505 32.5 -1
+l 571 572
+o object_214
+usemtl diffuse_ControlText
+v 29.505 32.5 -1
+v 32.475 32.5 -1
+l 573 574
+o object_215
+usemtl diffuse_ControlText
+v 29.505 35 -1
+v 32.475 35 -1
+l 575 576
+o object_216
+usemtl diffuse_ControlText
+v 32.475 35 -1
+v 35.445 35 -1
+l 577 578
+o object_217
+usemtl diffuse_ControlText
+v 32.475 32.5 -1
+v 35.445 32.5 -1
+l 579 580
+o object_218
+usemtl diffuse_ControlText
+v 21.585 32.5 -1
+v 24.555 32.5 -1
+l 581 582
+o object_219
+usemtl diffuse_ControlText
+v 21.585 35 -1
+v 24.555 35 -1
+l 583 584
+o object_220
+usemtl diffuse_ControlText
+v 18.615 35 -1
+v 21.585 35 -1
+l 585 586
+o object_221
+usemtl diffuse_ControlText
+v 18.615 32.5 -1
+v 21.585 32.5 -1
+l 587 588
+o object_222
+usemtl diffuse_ControlText
+v 15.645 32.5 -1
+v 18.615 32.5 -1
+l 589 590
+o object_223
+usemtl diffuse_ControlText
+v 15.645 35 -1
+v 18.615 35 -1
+l 591 592
+o object_224
+usemtl diffuse_ControlText
+v 13.665 35 -1
+v 15.645 35 -1
+l 593 594
+o object_225
+usemtl diffuse_ControlText
+v 13.665 32.5 -1
+v 15.645 32.5 -1
+l 595 596
+o object_226
+usemtl diffuse_ControlText
+v 13.665 35 -39
+v 13.665 35 -1
+cstype bspline
+deg 1
+curv 62 102 597 598
+parm u 62 62 102 102
+end
+o object_227
+usemtl diffuse_ControlText
+v 24.555 35 -39
+v 13.665 35 -39
+cstype bspline
+deg 1
+curv 51 62 599 600
+parm u 51 51 62 62
+end
+o object_228
+usemtl diffuse_ControlText
+v 24.555 35 -1
+v 24.555 35 -39
+cstype bspline
+deg 1
+curv 11 51 601 602
+parm u 11 11 51 51
+end
+o object_229
+usemtl diffuse_ControlText
+v 13.665 32.5 -39
+v 13.665 32.5 -1
+cstype bspline
+deg 1
+curv 62 102 603 604
+parm u 62 62 102 102
+end
+o object_230
+usemtl diffuse_ControlText
+v 24.555 32.5 -39
+v 13.665 32.5 -39
+cstype bspline
+deg 1
+curv 51 62 605 606
+parm u 51 51 62 62
+end
+o object_231
+usemtl diffuse_ControlText
+v 24.555 32.5 -1
+v 24.555 32.5 -39
+cstype bspline
+deg 1
+curv 11 51 607 608
+parm u 11 11 51 51
+end
+o object_232
+usemtl diffuse_ControlText
+v 13.665 32.5 -1
+v 13.665 35 -1
+l 609 610
+o object_233
+usemtl diffuse_ControlText
+v 24.555 32.5 -1
+v 24.555 35 -1
+l 611 612
+o object_234
+usemtl diffuse_ControlText
+v 24.555 32.5 -39
+v 24.555 35 -39
+l 613 614
+o object_235
+usemtl diffuse_ControlText
+v 13.665 32.5 -39
+v 13.665 35 -39
+l 615 616
+o object_236
+usemtl diffuse_ControlText
+v 2.775 32.5 -39
+v 2.775 35 -39
+l 617 618
+o object_237
+usemtl diffuse_ControlText
+v 13.665 32.5 -39
+v 13.665 35 -39
+l 619 620
+o object_238
+usemtl diffuse_ControlText
+v 13.665 32.5 -1
+v 13.665 35 -1
+l 621 622
+o object_239
+usemtl diffuse_ControlText
+v 2.775 32.5 -1
+v 2.775 35 -1
+l 623 624
+o object_240
+usemtl diffuse_ControlText
+v 13.665 32.5 -1
+v 13.665 32.5 -39
+cstype bspline
+deg 1
+curv 11 51 625 626
+parm u 11 11 51 51
+end
+o object_241
+usemtl diffuse_ControlText
+v 13.665 32.5 -39
+v 2.775 32.5 -39
+cstype bspline
+deg 1
+curv 51 62 627 628
+parm u 51 51 62 62
+end
+o object_242
+usemtl diffuse_ControlText
+v 2.775 32.5 -39
+v 2.775 32.5 -1
+cstype bspline
+deg 1
+curv 62 102 629 630
+parm u 62 62 102 102
+end
+o object_243
+usemtl diffuse_ControlText
+v 13.665 35 -1
+v 13.665 35 -39
+cstype bspline
+deg 1
+curv 11 51 631 632
+parm u 11 11 51 51
+end
+o object_244
+usemtl diffuse_ControlText
+v 13.665 35 -39
+v 2.775 35 -39
+cstype bspline
+deg 1
+curv 51 62 633 634
+parm u 51 51 62 62
+end
+o object_245
+usemtl diffuse_ControlText
+v 2.775 35 -39
+v 2.775 35 -1
+cstype bspline
+deg 1
+curv 62 102 635 636
+parm u 62 62 102 102
+end
+o object_246
+usemtl diffuse_ControlText
+v 2.775 32.5 -1
+v 4.755 32.5 -1
+l 637 638
+o object_247
+usemtl diffuse_ControlText
+v 2.775 35 -1
+v 4.755 35 -1
+l 639 640
+o object_248
+usemtl diffuse_ControlText
+v 4.755 35 -1
+v 7.725 35 -1
+l 641 642
+o object_249
+usemtl diffuse_ControlText
+v 4.755 32.5 -1
+v 7.725 32.5 -1
+l 643 644
+o object_250
+usemtl diffuse_ControlText
+v 7.725 32.5 -1
+v 10.695 32.5 -1
+l 645 646
+o object_251
+usemtl diffuse_ControlText
+v 7.725 35 -1
+v 10.695 35 -1
+l 647 648
+o object_252
+usemtl diffuse_ControlText
+v 10.695 35 -1
+v 13.665 35 -1
+l 649 650
+o object_253
+usemtl diffuse_ControlText
+v 10.695 32.5 -1
+v 13.665 32.5 -1
+l 651 652
+o object_254
+usemtl diffuse_ControlText
+v 2.775 32.5 -1
+v 2.775 35 -1
+l 653 654
+o object_255
+usemtl diffuse_ControlText
+v 0.3 30 -1
+v 0.3 35 -1
+cstype bspline
+deg 1
+curv 0 5 655 656
+parm u 0 0 5 5
+end
+o object_256
+usemtl diffuse_ControlText
+v 59.7 30 -1
+v 59.7 35 -1
+cstype bspline
+deg 1
+curv 0 5 657 658
+parm u 0 0 5 5
+end
+o object_257
+usemtl diffuse_ControlText
+v 2.28 32.5 -2.9
+v 57.72 32.5 -2.9
+cstype bspline
+deg 1
+curv 0 56 659 660
+parm u 0 0 56 56
+end
+o object_258
+usemtl diffuse_ControlText
+v 57.72 30 -2.9
+v 57.72 35 -2.9
+cstype bspline
+deg 1
+curv 0 5 661 662
+parm u 0 0 5 5
+end
+o object_259
+usemtl diffuse_ControlText
+v 2.28 30 -2.9
+v 2.28 35 -2.9
+cstype bspline
+deg 1
+curv 0 5 663 664
+parm u 0 0 5 5
+end
+o object_260
+usemtl diffuse_ControlText
+v 59.7 30 -2.9
+v 59.7 35 -2.9
+cstype bspline
+deg 1
+curv 0 5 665 666
+parm u 0 0 5 5
+end
+o object_261
+usemtl diffuse_ControlText
+v 0.3 30 -2.9
+v 0.3 35 -2.9
+cstype bspline
+deg 1
+curv 0 5 667 668
+parm u 0 0 5 5
+end
+o object_262
+usemtl diffuse_ControlText
+v 0.3 30 -1
+v 0.3 30 -2.9
+cstype bspline
+deg 1
+curv 0 2 669 670
+parm u 0 0 2 2
+end
+o object_263
+usemtl diffuse_ControlText
+v 0.3 35 -1
+v 0.3 35 -2.9
+cstype bspline
+deg 1
+curv 0 2 671 672
+parm u 0 0 2 2
+end
+o object_264
+usemtl diffuse_ControlText
+v 59.7 35 -1
+v 59.7 35 -2.9
+cstype bspline
+deg 1
+curv 0 2 673 674
+parm u 0 0 2 2
+end
+o object_265
+usemtl diffuse_ControlText
+v 2.28 30 -39
+v 2.28 35 -39
+cstype bspline
+deg 1
+curv 0 5 675 676
+parm u 0 0 5 5
+end
+o object_266
+usemtl diffuse_ControlText
+v 57.72 30 -39
+v 57.72 35 -39
+cstype bspline
+deg 1
+curv 0 5 677 678
+parm u 0 0 5 5
+end
+o object_267
+usemtl diffuse_ControlText
+v 57.72 30 -39
+v 2.28 30 -39
+cstype bspline
+deg 1
+curv 0 56 679 680
+parm u 0 0 56 56
+end
+o object_268
+usemtl diffuse_ControlText
+v 2.28 35 -39
+v 57.72 35 -39
+cstype bspline
+deg 1
+curv 0 56 681 682
+parm u 0 0 56 56
+end
+o object_269
+usemtl diffuse_ControlText
+v 57.72 30 -39
+v 57.72 30 -2.9
+cstype bspline
+deg 1
+curv 0 38 683 684
+parm u 0 0 38 38
+end
+o object_270
+usemtl diffuse_ControlText
+v 57.72 35 -39
+v 57.72 35 -2.9
+cstype bspline
+deg 1
+curv 0 38 685 686
+parm u 0 0 38 38
+end
+o object_271
+usemtl diffuse_ControlText
+v 2.28 30 -39
+v 2.28 30 -2.9
+cstype bspline
+deg 1
+curv 0 38 687 688
+parm u 0 0 38 38
+end
+o object_272
+usemtl diffuse_ControlText
+v 2.28 35 -39
+v 2.28 35 -2.9
+cstype bspline
+deg 1
+curv 0 38 689 690
+parm u 0 0 38 38
+end
+o object_273
+usemtl diffuse_ControlText
+v 57.72 32.5 -2.9
+v 57.72 32.5 -39
+cstype bspline
+deg 1
+curv 0 38 691 692
+parm u 0 0 38 38
+end
+o object_274
+usemtl diffuse_ControlText
+v 57.72 32.5 -39
+v 2.28 32.5 -39
+cstype bspline
+deg 1
+curv 0 56 693 694
+parm u 0 0 56 56
+end
+o object_275
+usemtl diffuse_ControlText
+v 2.28 32.5 -39
+v 2.28 32.5 -2.9
+cstype bspline
+deg 1
+curv 0 38 695 696
+parm u 0 0 38 38
+end
+o object_276
+usemtl diffuse_ControlText
+v 2.28 35 -2.9
+v 57.72 35 -2.9
+cstype bspline
+deg 1
+curv 0 56 697 698
+parm u 0 0 56 56
+end
+o object_277
+usemtl diffuse_ControlText
+v 59.7 35 -2.9
+v 57.72 35 -2.9
+cstype bspline
+deg 1
+curv 0 2 699 700
+parm u 0 0 2 2
+end
+o object_278
+usemtl diffuse_ControlText
+v 0.3 35 -2.9
+v 2.28 35 -2.9
+cstype bspline
+deg 1
+curv 0 2 701 702
+parm u 0 0 2 2
+end
+o object_279
+usemtl diffuse_ControlText
+v 57.72 30 -2.9
+v 2.28 30 -2.9
+cstype bspline
+deg 1
+curv 0 56 703 704
+parm u 0 0 56 56
+end
+o object_280
+usemtl diffuse_ControlText
+v 57.72 30 -2.9
+v 59.7 30 -2.9
+cstype bspline
+deg 1
+curv 0 2 705 706
+parm u 0 0 2 2
+end
+o object_281
+usemtl diffuse_ControlText
+v 2.28 30 -2.9
+v 0.3 30 -2.9
+cstype bspline
+deg 1
+curv 0 2 707 708
+parm u 0 0 2 2
+end
+o object_282
+usemtl diffuse_ControlText
+v 59.7 30 -1
+v 59.7 30 -2.9
+cstype bspline
+deg 1
+curv 0 2 709 710
+parm u 0 0 2 2
+end
+o object_283
+usemtl diffuse_ControlText
+v 0.3 30 -1
+v 2.775 30 -1
+cstype bspline
+deg 1
+curv 0 2.5 711 712
+parm u 0 0 2.5 2.5
+end
+o object_284
+usemtl diffuse_ControlText
+v 57.225 30 -1
+v 59.7 30 -1
+cstype bspline
+deg 1
+curv 0 2.5 713 714
+parm u 0 0 2.5 2.5
+end
+o object_285
+usemtl diffuse_ControlText
+v 2.775 30 -1
+v 57.225 30 -1
+cstype bspline
+deg 1
+curv 0 55 715 716
+parm u 0 0 55 55
+end
+o object_286
+usemtl diffuse_ControlText
+v 2.775 35 -1
+v 57.225 35 -1
+cstype bspline
+deg 1
+curv 0 55 717 718
+parm u 0 0 55 55
+end
+o object_287
+usemtl diffuse_ControlText
+v 57.225 35 -1
+v 59.7 35 -1
+cstype bspline
+deg 1
+curv 0 2.5 719 720
+parm u 0 0 2.5 2.5
+end
+o object_288
+usemtl diffuse_ControlText
+v 0.3 35 -1
+v 2.775 35 -1
+cstype bspline
+deg 1
+curv 0 2.5 721 722
+parm u 0 0 2.5 2.5
+end
+o object_289
+usemtl diffuse_ControlText
+v 2.775 32.5 -1
+v 57.225 32.5 -1
+cstype bspline
+deg 1
+curv 0 55 723 724
+parm u 0 0 55 55
+end
