@@ -8,7 +8,7 @@
     "docs:dev": "pnpm --filter @linyb-ui/docs dev",
     "docs:build": "pnpm --filter @linyb-ui/docs build",
     "docs:preview": "pnpm --filter @linyb-ui/docs preview",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'todo'"
   },
   "keywords": [],
   "author": "",
